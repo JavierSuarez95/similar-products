@@ -1,0 +1,4 @@
+server:
+  port: 5000
+similar-products:
+  url: http://localhost:3001/product/
